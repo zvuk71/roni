@@ -4328,7 +4328,7 @@ input[type="button"].btn-block {
     background-color: #f5f5f5
 }
 
-.custom-file-input:lang(en)~.custom-file-label::after {
+.custom-file-input:lang(uk)~.custom-file-label::after {
     content: "Шукаємо"
 }
 
@@ -5308,7 +5308,7 @@ input[type="button"].btn-block {
     -ms-flex-wrap: wrap;
     flex-wrap: wrap;
     padding: 0 0;
-    margin-bottom: .25rem;
+    margin-bottom: 0.25rem;
     list-style: none;
     background-color: rgba(0, 0, 0, 0)
 }
